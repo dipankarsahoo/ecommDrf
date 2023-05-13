@@ -1,0 +1,4 @@
+
+*.pyc
+drfecommerce/db.sqlite3
+drfecommerce/.env
